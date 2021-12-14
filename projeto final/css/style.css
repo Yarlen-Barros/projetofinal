@@ -1,0 +1,25 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    background-image: url(https://vidacelular.com.br/wp-content/uploads/2020/12/snake-destaque.jpg);
+    background-position: left;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: fantasy;
+    text-align: center;
+}
+button{ 
+    height: 10vh;
+    width: 10vw;
+    margin: 0;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(0, 105, 14);
+    margin: 0;
+    position: absolute;               
+    top: 50%;                         
+    transform: translate(0, -0%) 
+}
+canvas,h1{
+    position: center;
+}
